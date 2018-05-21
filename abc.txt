@@ -4,3 +4,4 @@ git is a distributed version control system  under the GPL.
 git has a mutable index called stage
 Git tracks changes of files.
 既改错了东西 有提交到版本库。
+为什么不是我？
